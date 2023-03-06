@@ -1,4 +1,4 @@
-# Backwardation_Contango_Commodity
+# Backwardation Contango Commodity Trading Strat
 
 The algorithm buys 20% of commodities with the highest roll-returns and shorts the 20% of commodities with the lowest roll-returns and holds the long-short positions for one month.
 
